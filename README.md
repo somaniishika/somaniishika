@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ishika!
-- 👀 I’m interested in coding,creating and exploring new fields of technology.
-- 🌱 I’m currently learning Full Stack Developement
+- 👀 I’m interested in coding,creating and exploring.
 
 
 <!---
