@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ishika!
 - 👀 I’m interested in coding,creating and exploring.
+- 💻 Feel free to connect with me: ishika05somani@gmail.com
 
 
 <!---
