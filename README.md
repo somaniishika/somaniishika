@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishika</h1>
+<h1 align="center">Hi , I'm Ishika</h1>
 
 <h3 align="center">Software Development Engineer @ Systango | Building, Creating & Exploring 🍃</h3>
 
@@ -25,7 +25,7 @@
 JavaScript • TypeScript • Python • C++
 
 ### ⚙️ Frameworks & Tools
-React • Node.js • Express.js • NestJS
+React • Node.js • Express.js • NestJS • FastAPI • NextJS
 
 ### 🗄 Databases
 MongoDB • MySQL • PostgreSQL
@@ -49,7 +49,7 @@ https://leetcode.com/u/ishika05somani
 
 
 
-## 📫 Connect With Me
+## 📫 For more:
 
 Feel free to reach me out — https://ishikasomani.vercel.app/
 
