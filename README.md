@@ -35,7 +35,7 @@ Git • Docker • AWS • Linux • CI/CD
 
 ---
 
-## 📊 Coding Profiles
+## 📊 Profiles
 
 <!-- Add links to profiles you're active on -->
 💻 **GitHub**
