@@ -15,7 +15,7 @@
 * 👀 I'm interested in **coding, creating, and exploring**
 * 💻 Currently working as a **Software Development Engineer @ Systango**
 * 🌱 Always looking to learn new tools, frameworks, and ideas
-* 📫 Feel free to connect with me — ishika05somani@gmail.com
+* 📫 Feel free to connect with me - ishika05somani@gmail.com
 
 ---
 
