@@ -51,6 +51,6 @@ https://leetcode.com/u/ishika05somani
 
 ## 📫 For more:
 
-Feel free to reach me out — https://ishikasomani.vercel.app/
+https://ishikasomani.vercel.app/
 
 ---
