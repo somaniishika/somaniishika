@@ -38,13 +38,13 @@ Git • Docker • AWS • Linux • CI/CD
 ## 📊 Profiles
 
 <!-- Add links to profiles you're active on -->
-💻 **GitHub**
+💻 **GitHub**:
 https://github.com/somaniishika
 
-💼 **LinkedIn**
+💼 **LinkedIn**:
 https://www.linkedin.com/in/ishikasomani/
 
-📝 **LeetCode**
+📝 **LeetCode**:
 https://leetcode.com/u/ishika05somani
 
 
