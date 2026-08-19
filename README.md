@@ -25,7 +25,7 @@
 JavaScript • TypeScript • Python • C++
 
 ### ⚙️ Frameworks & Tools
-React • Node.js • Express.js • NestJS • FastAPI • NextJS
+React.js • Node.js • Express.js • NestJS  • NextJS
 
 ### 🗄 Databases
 MongoDB • MySQL • PostgreSQL
